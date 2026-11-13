@@ -8,6 +8,18 @@ A responsive Employee Management System built using **React.js, Tailwind CSS, an
 
 📂 **GitHub Repository:** [https://github.com/Jamal-Hashim/ems](https://github.com/Jamal-Hashim/ems)
 
+## 🔑 Demo Login Credentials
+
+### 👨‍💼 Admin Login
+- **Email:** admin@gmail.com
+- **Password:** 123
+
+### 👨‍💻 Employee Login
+- **Email:** employee1@gmail.com
+- **Password:** 123
+
+**Note:** These credentials are provided for demo and testing purposes only.
+
 ## 🚀 Features
 
 ### 👨‍💼 Admin Dashboard
