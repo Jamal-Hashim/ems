@@ -1,6 +1,12 @@
 # EMS – Employee Management System
 
-A responsive Employee Management System built using **React.js, Tailwind CSS, and Context API**. This application allows Admins to manage employee tasks and Employees to view and track their assigned tasks.
+A responsive Employee Management System built using **React.js, Tailwind CSS, and Context API**. This application allows Admins to manage employee tasks, while Employees can view and track their assigned tasks.
+
+## 🚀 Live Demo
+
+🌐 **Live Website:** [https://jamal-hashim.github.io/ems/](https://jamal-hashim.github.io/ems/)
+
+📂 **GitHub Repository:** [https://github.com/Jamal-Hashim/ems](https://github.com/Jamal-Hashim/ems)
 
 ## 🚀 Features
 
@@ -111,10 +117,6 @@ The main objective of this project is to understand and practice important React
 - State Management
 - Reusable Components
 - Responsive UI Design
-
-## 🌐 Live Demo
-
-## 🚀 Live Website: https://jamal-hashim.github.io/ems/
 
 ## 👨‍💻 Developer
 
